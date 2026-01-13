@@ -11,3 +11,4 @@ Includes:
 
 Language: Python
 
+This repository consists of the notes I took throughout this course using the IDLE Shell 3.14.2
