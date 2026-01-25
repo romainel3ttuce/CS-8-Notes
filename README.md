@@ -1,4 +1,4 @@
-# CS 8: Introduction to Computer Science Notes
+# CS 8: Introduction to Computer Science
 Course taken at UC Santa Barbara
 
 Includes:
